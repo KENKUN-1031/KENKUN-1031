@@ -7,3 +7,5 @@
 KENKUN-1031/KENKUN-1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KENKUN-1031&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KENKUN-1031&theme=algolia)
