@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java, Vue, and Rust(studying).
 - 📫 How to reach me - 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KENKUN-1031&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KENKUN-1031&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KENKUN-1031&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KENKUN-1031&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KENKUN-1031&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KENKUN-1031&theme=nord_dark)
 
 <!---
 KENKUN-1031/KENKUN-1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
