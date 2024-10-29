@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KENKUN-1031&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KENKUN-1031&theme=dracula&exclude=HTML)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KENKUN-1031&theme=dracula&exclude=HTML,JavaScript)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KENKUN-1031&theme=dracula&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
